@@ -1,0 +1,25 @@
+I am making this text document outside of unity since it keeps crashing whenever i use it right now. 
+
+
+To load into the game you would normaly use the Menu scene, but mine does not function correcly so loading up 
+the first level is the only way to acces the Level.
+
+We used the Cinemaschine,NewInputSystem and also Eflatun Packages.
+
+
+I do have only the features we have build in class, and those not even fully and not all working. 
+Fully Functional really only is the enemy: With the "lineOfSigntCheck"(i know i had spelled it wrong there ;-;
+"SimpleEnemyBehaviour" Working well and the enemy is able to do everything they need to do. 
+
+But i was not able to make the player walk at any point, and i wasnt able to add a cript that takes care of the movement
+why? because i got to confused and the script did not make sense. I would need to start with the script to know a bit better what i am doing. 
+
+The UI also is not functional since i was not able to keep up in class and not able to finish it on my own, which sadly mainly came from the amount of deadlines we had now.
+I was working on a diffrent deadline each day. And once i did touch the script i managed to delet more. 
+
+I have also only know realized i have never actually Commited anything i did untill now (18.06 ~22:50)
+I have always staged the things and clicked "push"thinking that was the right thing to do. 
+
+I am terribly sorry for this mess of a project, I hope to have something that moves at out game jam. 
+
+I belive my unity somehow is messed up, but that wouldnt be the first time a program completly died on me. 
